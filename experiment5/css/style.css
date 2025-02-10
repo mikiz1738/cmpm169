@@ -1,0 +1,24 @@
+/* style.css */
+
+/* Ensure the entire page content is centered */
+body {
+    margin: 0;
+    padding: 0;
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    justify-content: center;
+  }
+  
+  /* Center the canvas and give it some bottom margin */
+  canvas {
+    display: block;
+    margin-bottom: 20px;
+  }
+  
+  /* Style for the container holding your buttons */
+  .button-container {
+    text-align: center;
+    margin-top: 20px;
+  }
+  
